@@ -1,0 +1,25 @@
+{
+  "name": "algorithm",
+  "version": "1.0.0",
+  "description": "learn algorithm by es6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BangKk/Algorithm.git"
+  },
+  "keywords": [
+    "es6",
+    "algorithm",
+    "javascript",
+    "node"
+  ],
+  "author": "BangKk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BangKk/Algorithm/issues"
+  },
+  "homepage": "https://github.com/BangKk/Algorithm#readme"
+}
