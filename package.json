@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/BangKk/Algorithm/issues"
   },
-  "homepage": "https://github.com/BangKk/Algorithm#readme"
+  "homepage": "https://github.com/BangKk/Algorithm#readme",
+  "dependencies": {
+    "babel-polyfill": "^6.26.0"
+  }
 }
