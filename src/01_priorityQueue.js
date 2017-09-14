@@ -1,3 +1,5 @@
+// 优先队列
+
 class PriorityQueue {
   constructor() {
     this.queue = []
@@ -36,7 +38,7 @@ class PriorityQueue {
 }
 
 
-// useage
+// test
 const priorityQueue = new PriorityQueue()
 priorityQueue.enqueue('test1', 1)
 priorityQueue.enqueue('test2', 2)
